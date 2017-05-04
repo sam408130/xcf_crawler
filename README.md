@@ -58,3 +58,5 @@ cmdline.execute('scrapy crawl item_list'.split())
 $ python main.py
 ```
 
+
+####仅用于交流学习，请勿用于任何商业用途
